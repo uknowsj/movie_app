@@ -14,7 +14,8 @@
   }
   
   .movie .movie__title {
-    margin-bottom: 5px;
+    margin-top:-20px;
+    margin-bottom: 10px;
     font-size: 24px;
     color: #2c2c2c;
   }
